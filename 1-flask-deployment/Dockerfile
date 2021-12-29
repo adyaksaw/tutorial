@@ -2,7 +2,7 @@ FROM python:3.8
 
 RUN pip install pipenv
 
-COPY Pipfile* /tmp
+COPY Pipfile* /tmp/
 
 RUN cd /tmp && pipenv lock --keep-outdated --requirements > requirements.txt
 
