@@ -2,4 +2,4 @@
 
 The explanation for this sample code can be read on this article:
 
-- [Medium]()
+- [Medium](https://blog.devgenius.io/d3-js-visualize-a-mathematical-function-d0c164ddcf2c?source=your_stories_page----------------------------------------)
